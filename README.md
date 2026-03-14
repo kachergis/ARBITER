@@ -1,4 +1,4 @@
-# CRUCIBLE
+# ARBITER
 
 **LLM-powered adversarial collaboration for cognitive science experiment design.**
 
